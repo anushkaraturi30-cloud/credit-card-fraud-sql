@@ -250,9 +250,7 @@ SELECT fraud_alert(15000.00, 3);  -- ⚠️ HIGH ALERT: Very unusual amount!
 
 **Anushka Raturi**
 Aspiring Data Analyst
-📧 raturianushka61@gmail.com10
-
-
+📧 raturianushka61@gmail.com
 ---
 
-⭐ If you found this project helpful please give it a star!
+### ⭐ If you found this project helpful please give it a star!
