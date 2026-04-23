@@ -249,7 +249,9 @@ SELECT fraud_alert(15000.00, 3);  -- ⚠️ HIGH ALERT: Very unusual amount!
 ## 👤 Author
 
 **Anushka Raturi**
+
 Aspiring Data Analyst
+
 📧 raturianushka61@gmail.com
 ---
 
